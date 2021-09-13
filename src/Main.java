@@ -41,7 +41,6 @@ class Main extends JFrame {
         @Override
         public void mouseExited(MouseEvent e) {}
     }
-
     public static void main(String[] args) throws Exception {
         Main window = new Main();
         window.run();
